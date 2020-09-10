@@ -1,4 +1,4 @@
-# Arquitectura-de-datos
+# Arquitectura-de-Software
 Materia Arquitectura de datos
 
 Integrantes 
